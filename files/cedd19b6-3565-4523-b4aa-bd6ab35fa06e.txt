@@ -1,0 +1,103 @@
+{
+  "persons" : [ {
+    "name" : "Alex Yeoh",
+    "block" : "A",
+    "faculty" : "SOC",
+    "phone" : "99272758",
+    "email" : "berniceyu@example.com",
+    "address" : "Blk 30 Geylang Street 29, #06-40",
+    "number" : "A1234567M",
+    "status" : "HRN",
+    "tagged" : [ "Hello" ]
+  }, {
+    "name" : "Bernice Yu",
+    "block" : "A",
+    "faculty" : "FOS",
+    "phone" : "99272758",
+    "email" : "berniceyu@example.com",
+    "address" : "Blk 30 Lorong 3 Serangoon Gardens, #07-18",
+    "number" : "A1234567M",
+    "status" : "NEGATIVE",
+    "tagged" : [ "colleagues", "friends" ]
+  }, {
+    "name" : "Charlotte Oliveiro",
+    "block" : "B",
+    "faculty" : "FOD",
+    "phone" : "93210283",
+    "email" : "charlotte@example.com",
+    "address" : "Blk 11 Ang Mo Kio Street 74, #11-04",
+    "number" : "A4724567M",
+    "status" : "HRN",
+    "tagged" : [ "neighbours" ]
+  }, {
+    "name" : "David Li",
+    "block" : "C",
+    "faculty" : "FOL",
+    "phone" : "91031282",
+    "email" : "lidavid@example.com",
+    "address" : "Blk 436 Serangoon Gardens Street 26, #16-43",
+    "number" : "A1234423M",
+    "status" : "NEGATIVE",
+    "tagged" : [ "family" ]
+  }, {
+    "name" : "WWW",
+    "block" : "D",
+    "faculty" : "FASS",
+    "phone" : "92492021",
+    "email" : "irfan@example.com",
+    "address" : "Blk 47 Tampines Street 20, #17-35",
+    "number" : "A6374567M",
+    "status" : "POSITIVE",
+    "tagged" : [ "classmates" ]
+  }, {
+    "name" : "Roy Balakrishnan",
+    "block" : "E",
+    "faculty" : "BIZ",
+    "phone" : "92624417",
+    "email" : "royb@example.com",
+    "address" : "Blk 45 Aljunied Street 85, #11-31",
+    "number" : "A8273645M",
+    "status" : "POSITIVE",
+    "tagged" : [ "colleagues" ]
+  }, {
+    "name" : "Vivian Alex",
+    "block" : "A",
+    "faculty" : "SOC",
+    "phone" : "94482014",
+    "email" : "Viviana@hotmail.com",
+    "address" : "33 Crescent Way",
+    "number" : "A0215656G",
+    "status" : "HRN",
+    "tagged" : [ "Leader" ]
+  }, {
+    "name" : "Michael Alex",
+    "block" : "D",
+    "faculty" : "SOC",
+    "phone" : "94405502",
+    "email" : "MichaelHandsome@hotmail.com",
+    "address" : "33 Pasir Ris Drive",
+    "number" : "A0113432E",
+    "status" : "POSITIVE",
+    "tagged" : [ "Leader" ]
+  }, {
+    "name" : "Jurgen Klopp",
+    "block" : "E",
+    "faculty" : "FASS",
+    "phone" : "92882028",
+    "email" : "champs@ynwa.com",
+    "address" : "74 Serangoon Avenue, #9-18",
+    "number" : "A0436372E",
+    "status" : "HRN",
+    "tagged" : [ "Leader" ]
+  }, {
+    "name" : "asdfwer",
+    "block" : "A",
+    "faculty" : "SOC",
+    "phone" : "12344567",
+    "email" : "test@email.com",
+    "address" : "asdfwer",
+    "number" : "A1223458X",
+    "status" : "NEGATIVE",
+    "tagged" : [ ]
+  } ]
+}
